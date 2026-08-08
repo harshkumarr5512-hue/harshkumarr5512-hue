@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="profile.png" width="190" alt="Harsh Kumar Profile Photo"/>
+<img src="profile.png.jpg" width="190" alt="Harsh Kumar Profile Photo"/>
 
 <h2>👋 Hi, I'm Harsh Kumar</h2>
 
