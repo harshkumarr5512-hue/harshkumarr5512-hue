@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:6A0DAD,100:7B2CBF&height=220&section=header&text=Harsh%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20BCA%20Student&descAlignY=55&descSize=18"/>
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:6A0DAD,100:7B2CBF&height=220&section=header&text=Harsh%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20BCA%20Student&descAlignY=55&descSize=18"/>
 
 <div align="center">
 
