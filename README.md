@@ -314,10 +314,10 @@ Selected for an **AI Web Development Internship at InAmigos Foundation through I
 
 <br>
 
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-Introduction-7C3AED?style=for-the-badge)
-
 **Date:** 21 July 2026  
 **Certificate Code:** `10496845`
+
+[📜 View Certificate](ai.pdf)
 
 </details>
 
@@ -328,11 +328,9 @@ Selected for an **AI Web Development Internship at InAmigos Foundation through I
 
 <br>
 
-![GenAI](https://img.shields.io/badge/GEN%20AI-NASSCOM-6D28D9?style=for-the-badge)
-
-Completed **GEN AI NASSCOM** under a Skill Development Program.
-
 **Date:** 25 July 2026
+
+[📜 View Certificate](ai%20gov.png)
 
 </details>
 
@@ -343,10 +341,7 @@ Completed **GEN AI NASSCOM** under a Skill Development Program.
 
 <br>
 
-![Tata](https://img.shields.io/badge/TATA-Cybersecurity%20Analyst-2563EB?style=for-the-badge)
-
-**Tata × Forage**
-
+**Tata × Forage**  
 **Date:** 6 July 2026
 
 ### Practical Tasks
@@ -355,6 +350,8 @@ Completed **GEN AI NASSCOM** under a Skill Development Program.
 - IAM Strategy Assessment
 - Crafting Custom IAM Solutions
 - Platform Integration
+
+[📜 View Certificate](Cyber%20Security.pdf)
 
 </details>
 
@@ -365,13 +362,10 @@ Completed **GEN AI NASSCOM** under a Skill Development Program.
 
 <br>
 
-![NASSCOM](https://img.shields.io/badge/NASSCOM-Exploratory%20Data%20Analysis-E11D48?style=for-the-badge)
-
-**FutureSkills Prime / NASSCOM**
-
+**FutureSkills Prime / NASSCOM**  
 **Date:** 25 July 2026
 
-Completed **Exploratory Data Analysis**, aligned to competency standards developed by the IT-ITeS Sector Skills Council.
+[📜 View Certificate](Data%20analysis.pdf)
 
 </details>
 
@@ -382,16 +376,15 @@ Completed **Exploratory Data Analysis**, aligned to competency standards develop
 
 <br>
 
-![Deloitte](https://img.shields.io/badge/Deloitte-Data%20Analytics-86BC25?style=for-the-badge)
-
-**Deloitte × Forage**
-
+**Deloitte × Forage**  
 **Date:** 18 June 2026
 
 ### Practical Tasks
 
 - Data Analysis
 - Forensic Technology
+
+[📜 View Certificate](Deloitte.pdf)
 
 </details>
 
@@ -402,10 +395,10 @@ Completed **Exploratory Data Analysis**, aligned to competency standards develop
 
 <br>
 
-![Gemini](https://img.shields.io/badge/Gemini-Google%20Meet-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
 **Date:** 24 July 2026  
 **Certificate Code:** `10507834`
+
+[📜 View Certificate](Gemini.pdf)
 
 </details>
 
@@ -416,33 +409,14 @@ Completed **Exploratory Data Analysis**, aligned to competency standards develop
 
 <br>
 
-![Web Development](https://img.shields.io/badge/Web%20Development-For%20Beginners-F97316?style=for-the-badge&logo=html5&logoColor=white)
-
 **Date:** 23 July 2026  
 **Certificate Code:** `10503218`
+
+[📜 View Certificate](Web%20Development.pdf)
 
 </details>
 
 ---
-
-# 📜 Certification Summary
-
-<div align="center">
-
-| Certification | Date |
-|---|---|
-| 🤖 Introduction to Artificial Intelligence | 21 Jul 2026 |
-| 🧠 GEN AI NASSCOM | 25 Jul 2026 |
-| 🔐 Tata Cybersecurity Analyst Job Simulation | 06 Jul 2026 |
-| 📊 Exploratory Data Analysis | 25 Jul 2026 |
-| 📈 Deloitte Data Analytics Job Simulation | 18 Jun 2026 |
-| ✨ Gemini in Google Meet | 24 Jul 2026 |
-| 🌐 Web Development for Beginners | 23 Jul 2026 |
-
-</div>
-
----
-
 # 🏆 Achievements & Learning
 
 <div align="center">
