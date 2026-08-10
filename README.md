@@ -1,4 +1,11 @@
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:6A0DAD,100:7B2CBF&height=220&section=header&text=Harsh%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20BCA%20Student&descAlignY=55&descSize=18"/>
+<h1 align="center">
+  Hi 👋, I'm Harsh Kumar
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Developer;BCA+Student;Web+Development+Enthusiast;Learning+%26+Building+Projects" alt="Typing SVG" />
+</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C9FF,100:7F00FF&height=220&section=header&text=Harsh%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20BCA%20Student&descAlignY=55&descSize=18"/>
 
 <div align="center">
 
