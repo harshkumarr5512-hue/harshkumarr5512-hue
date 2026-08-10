@@ -490,7 +490,7 @@ Selected for an **AI Web Development Internship at InAmigos Foundation through I
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/harshkumarr5512-hue/harshkumarr5512-hue/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/harshkumarr5512-hue/harshkumarr5512-hue/gh-pages/github-contribution-grid-snake-dark.svg)
 
 </div>
 
