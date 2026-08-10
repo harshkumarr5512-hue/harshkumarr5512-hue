@@ -454,7 +454,7 @@ Selected for an **AI Web Development Internship at InAmigos Foundation through I
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshkumarr5512-hue&show_icons=true&theme=midnight-purple&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshkumarr5512-hue&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img width="49%" src="https://streak-stats.demolab.com?user=harshkumarr5512-hue&theme=midnight-purple&hide_border=true" />
 
