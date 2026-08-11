@@ -17,6 +17,12 @@
 
 <br><br>
 
+<div align="center">
+  <img src="portrait.svg" width="500" alt="ASCII Portrait"/>
+</div>
+
+<br>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;Building+Modern+Web+Experiences;Learning+Full+Stack+Development;Exploring+AI+%26+Data+Analytics;Always+Learning+%26+Building" alt="Typing SVG"/>
 
 <br>
