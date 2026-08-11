@@ -33,10 +33,13 @@ jobs:
       - name: Generate terminal panel
         run: python tools/render_panel.py
 
+      - name: Generate ASCII portrait
+        run: python tools/render_portrait.py
+
       - name: Commit generated files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add graph.svg sysinfo.svg assets/contributions.json
+          git add graph.svg sysinfo.svg portrait.svg assets/contributions.json
           git diff --cached --quiet || git commit -m "Update Living Terminal"
           git push
