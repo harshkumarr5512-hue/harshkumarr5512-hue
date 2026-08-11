@@ -545,3 +545,23 @@ Open_To:
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:6A0DAD,100:7B2CBF&height=120&section=footer"/>
+
+---
+
+<h2 align="center">💻 Living Terminal</h2>
+
+<p align="center">
+  <img src="./sysinfo.svg" width="760" alt="Harsh Kumar Terminal Profile" />
+</p>
+
+<br>
+
+<h2 align="center">📊 Live Contribution Activity</h2>
+
+<p align="center">
+  <img src="./graph.svg" width="100%" alt="Harsh Kumar Contribution Graph" />
+</p>
+
+<p align="center">
+  <code>$ status: learning • building • contributing_</code>
+</p>
